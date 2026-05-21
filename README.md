@@ -182,15 +182,6 @@ System updates:
 
 ---
 
-# 📸 Screenshots
-
-🔹 Home Dashboard Screenshot  
-🔹 Eco Activity Log Screenshot  
-🔹 Weekly Analysis Screenshot  
-🔹 Leaderboard Screenshot  
-🔹 Eco Points & Badges Screenshot  
-
----
 
 # 🚀 Installation & Setup
 
